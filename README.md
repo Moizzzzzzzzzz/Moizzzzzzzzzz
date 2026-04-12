@@ -1,4 +1,4 @@
-# 👋 Moizz Khan — AI Engineer
+# 👋 Abdul Moizz — AI Engineer
 
 I build **custom AI agents and RAG systems** that automate real business workflows.  
 Based in Pakistan 🇵🇰 — working with clients globally via async chat.
