@@ -73,6 +73,7 @@ and routes to the right team member.
 I'm open to freelance projects, remote contracts, and consulting on AI agent architecture.  
 Best way to reach me is LinkedIn or directly via my portfolio.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-moizz--portfolio.vercel.app-7C3AED?style=flat)](https://moizz-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-moizz-b21bb0322)
-[![DocuMind](https://img.shields.io/badge/Live_Demo-DocuMind_AI-22c55e?style=flat)](https://documind-ai-w3hyl.ondigitalocean.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-moizz--portfolio.vercel.app-7C3AED?style=flat)](https://moizzz.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-moizz-b21bb0322/)
+[![DocuMind](https://img.shields.io/badge/Live_Demo-DocuMind_AI-22c55e?style=flat)](https://documind-ai-w3hyl.ondigitalocean.app/
+)
